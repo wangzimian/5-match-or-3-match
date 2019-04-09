@@ -26,3 +26,4 @@ plt.xlabel('p for every match')
 plt.ylabel('p')
 plt.legend()
 
+plt.show #显示出结果
